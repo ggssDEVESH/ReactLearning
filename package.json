@@ -1,0 +1,25 @@
+{
+  "name": "reactlearning",
+  "version": "1.0.0",
+  "description": "this is namastey react course",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggssDEVESH/ReactLearning.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "devesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggssDEVESH/ReactLearning/issues"
+  },
+  "homepage": "https://github.com/ggssDEVESH/ReactLearning#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
