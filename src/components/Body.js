@@ -24,7 +24,6 @@ const Body = () => {
     setRestList(
       json?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants
     );
-    console.log(restList);
     setFilterRest(
       json?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants
     );
