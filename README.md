@@ -17,3 +17,9 @@ two types of routing
 2.server side routing -->  make a network call get the data and show it here..
 
 single page application.
+
+redux -->
+click on ADD button --> dispact action --> calls reducer function --> modify the slice (redux object) --> calls a selector (subscribing to store) --> updates automatically.
+
+for reduxtoolkit we are installing @redux/toolkit and react-redux 
+-build store, connect our store, slice, dispatch..
