@@ -23,3 +23,22 @@ click on ADD button --> dispact action --> calls reducer function --> modify the
 
 for reduxtoolkit we are installing @redux/toolkit and react-redux 
 -build store, connect our store, slice, dispatch..
+
+
+Testting -->
+1.unit testing
+2.integration testing
+3.end to end testing -e2e testing  
+
+react testing lib uses jest in bts.
+jest is js testing lib
+
+--> step 1. install react testing lib
+--> install jest
+-->configure babel.config
+-->config parcel config to disable default babel dependencies.
+--> Jest configuration  --> npx jest --init
+--> install jest library..
+--> install @babel/preset-react to make jsx work
+-->include @babel/preset-react in my babel config.
+-->npm i - D @testing-library/jest-dom
