@@ -42,3 +42,6 @@ jest is js testing lib
 --> install @babel/preset-react to make jsx work
 -->include @babel/preset-react in my babel config.
 -->npm i - D @testing-library/jest-dom
+
+
+if you want to run the test without command you use watch-test : jest --watch in package.json file..
