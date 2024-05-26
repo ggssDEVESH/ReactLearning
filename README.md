@@ -8,7 +8,7 @@ In 2016 --  react fiber is new way to find the diff.
 
 whenever react state variable then the entire component is getting rerender the component. using Reconcilation algorithm.
 
-if useEffect is called only once when the array is empty/ not there. something as dependency then it useeffect is called everytime the dependency changes.. does not use outside the function.. never use useEffect/useState inside if else condition and it makes code inconsistency.. 
+if useEffect is called only once when the array is empty. something as dependency then it useeffect is called everytime the dependency changes.. does not use outside the function.. never use useEffect/useState inside if else condition and it makes code inconsistency.. 
 
 Do not use anchor tag in react. for routs because it refreshes entire page.. use Link from react-router-dom which helps in taking to the page without refresh of page.
 
